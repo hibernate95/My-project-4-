@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8b5a8124457b6f84e9a3c0b184272295
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mabinogi_Classic_OTF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bc8585514387b3b45aea633a7ee3c18d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
